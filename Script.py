@@ -26,7 +26,7 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 
 
 
-Developer - <a href='https://t.me/IM_JISSHU'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/SUDIPSAHA06'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
