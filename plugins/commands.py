@@ -30,8 +30,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/Movie_fo"),
-                    InlineKeyboardButton('🎬 channel', url='https://t.me/movie_file_20')
+                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/Ott_Movie_Request_Group"),
+                    InlineKeyboardButton('🎬 channel', url='https://t.me/S_Hindi_Movie')
                 ],[
                     InlineKeyboardButton('🎉 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🎉', url=CHNL_LNK)
                   ]]
@@ -51,7 +51,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('movie audio 💋', callback_data="shortlink_info"),
-                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url='https://t.me/Movie_fo')
+                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url='https://t.me/Ott_Movie_Request_Group')
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
